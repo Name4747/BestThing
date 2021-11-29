@@ -7,13 +7,13 @@ function App() {
     <div>
       <header>
         <div>
-  <span>What is better?</span>
+          <span>What is better?</span>
         </div>
         <div>
-
+          question 1
         </div>
         <div>
-
+          question 2
         </div>
       </header>
     </div>
